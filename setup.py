@@ -1,3 +1,5 @@
+from os import name
+
 from setuptools import setup, find_packages , setup
 
 setup(
@@ -8,3 +10,4 @@ setup(
     packages=find_packages(),
     install_requires=[]
 )
+
