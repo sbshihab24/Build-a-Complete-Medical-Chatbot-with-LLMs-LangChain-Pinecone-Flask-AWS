@@ -1,17 +1,12 @@
 langchain
 langchain-community
-langchain-core
 langchain-openai
 langchain-pinecone
-langchain-text-splitters
 
-openai
 flask
+openai
 sentence-transformers
 pypdf
 python-dotenv
-pinecone-client
-
+pinecone
 ipykernel
-
--e .
